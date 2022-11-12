@@ -82,17 +82,17 @@ Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu, Wenxiang Deng
 
 • Third prize in National Cipher Technology Competition (2018.11).
 
-Provincial Level:
+- Provincial Level:
 
 • Second prize in Jiangsu Province 14th College Students’ Physics and Experimental Technology Works Innovation Competition (2017.11).
 
-Municipal Level:
+- Municipal Level:
 
 • Excellent Intern in Summer Internship for College Students (2018.12).
 
 School Level:
 
-• Scholarship for People of the Year on Campus in academic year 2018-2019 (Only 10 in NUST<mark>) (2019.11).
+• Scholarship for People of the Year on Campus in academic year 2018-2019 (Only 10 in NUST) (2019.11).
   
 • Outstanding Graduate Representative (2020.06).
 
