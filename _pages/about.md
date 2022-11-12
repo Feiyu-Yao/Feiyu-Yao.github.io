@@ -17,42 +17,77 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a research assistant at Westlake University, working on Visual Language Navigation and applying sensors to capture motion.  My research interest includes multimodal tasks, sensor tasks, embodied AI and domain generalization. 
+I graduated from Columbia University with a master of science degree. My major is Mechanical Engineering and my concentration is robotics and control. I received a B.E degree at Nanjing University of Science and Technology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Few-shot Domain Adaptation for IMU Denoising](https://arxiv.org/abs/2201.01537)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Feiyu Yao**, Zongkai Wu, Zhenyu Wei, Donglin Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+• We are the first to take notice of the low-cost IMU denoising generalization problem brought by different IMUs in different application scenarios and locate the problem to the Embedding module.
+• We propose an IMU denoising method composed by a domain adaptation framework and a corresponding few- shot learning strategy. Proposed IMU denoising method can adapt to a new domain with few labelled data after being trained.
+• We implement our proposed IMU denoising method both on open dataset (EuRoC and TUM-VI) and two real robot (car and Quadruped robots) with multiple IMUs. The performance verifies the effectiveness of our method.
+  
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks]([https://arxiv.org/abs/2201.01537](https://www.sciencedirect.com/science/article/abs/pii/S001905781930521X))
+
+Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu, Wenxiang Deng
+  
+
+• This paper proposes a composite design of nonlinear neural-networks (NN) and continuous robust integral of the sign of the error (RISE) feedback controller. The control development incorporates a NN feedforward component to have a compensation for unknown state-dependent disturbances and to further improve the accuracy of feedforward compensation, meanwhile input parameter is updated online. 
+  
+• To achieve asymptotic stability, a novel RISE term with NN-based feedforward component is developed for the first time to enable the incorporation of model reference adaptive control structure where acceleration signal is not employed. 
+
+• The proposed controller guarantees controlled hydraulic system a semi-global asymptotic stability. For the experimental results, the prescribed transient performance is tested under rectangular trajectory and the steady state performance is tested under sinusoidal trajectory
+  
+</div>
+</div>
+
+
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- International Level: 
+• Honorable Mention in Mathematical Contest in Modeling (2018.04).
+• Silver Award of the 7th China International "Internet plus" College Students Innovation and Entrepreneurship Competition --- Intelligent Fusion Control Algorithm Chip.
+- National Level: 
+• Scholarship, 2017 Ministry of Industry and Information Technology of The P.R.C. Innovation and Entrepreneurship Scholarship (2018.05).
+• Scholarship, 2017 Ministry of Industry and Information Technology of The P.R.C. Innovation and Entrepreneurship Scholarship (2019.05).
+• Third prize in National Cipher Technology Competition (2018.11).
+Provincial Level:
+• Second prize in Jiangsu Province 14th College Students’ Physics and Experimental Technology Works Innovation Competition (2017.11).
+Municipal Level:
+• Excellent Intern in Summer Internship for College Students (2018.12).
+School Level:
+• Scholarship for People of the Year on Campus in academic year 2018-2019 <mark>(Only 10 in NUST<mark>) (2019.11).
+• Outstanding Graduate Representative (2020.06).
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2022.05*, Master of Science, Columbia University, New York. 
+- *2016.09 - 2020.06*, Bachelor of Engineering, Naning Univerisity of Science and Technology, Nanjing. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.01 - 2021.03*, Perception and Fusion Intern of Robotics Department, Sinovation Ventures, Beijing.
+- *2018.07 - 2018.08*, Quality Inspection Intern, Nanjing Bureau of Quality and Technical Supervision, Nanjing.
