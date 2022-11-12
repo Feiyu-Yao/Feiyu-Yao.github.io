@@ -28,7 +28,7 @@ I graduated from Columbia University with a master of science degree. My major i
 </div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Few-shot Domain Adaptation for IMU Denoising](https://arxiv.org/abs/2201.01537)
@@ -43,7 +43,7 @@ I graduated from Columbia University with a master of science degree. My major i
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks]([https://arxiv.org/abs/2201.01537](https://www.sciencedirect.com/science/article/abs/pii/S001905781930521X))
