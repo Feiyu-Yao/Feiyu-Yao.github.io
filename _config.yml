@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Feiyu Yao"
-  avatar           : "images/photo.jpeg"
+  avatar           : "images/photo.png"
   bio              : "Research Assistant in Westlake University"
   location         : "Hangzhou, China"
   employer         :
