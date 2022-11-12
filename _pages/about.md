@@ -37,7 +37,7 @@ I graduated from Columbia University with a master of science degree. My major i
 
 • We are the first to take notice of the low-cost IMU denoising generalization problem brought by different IMUs in different application scenarios and locate the problem to the Embedding module.
   
-• We propose an IMU denoising method composed by a domain adaptation framework and a corresponding few- shot learning strategy. Proposed IMU denoising method can adapt to a new domain with few labelled data after being trained.
+• We propose an IMU denoising method composed by a domain adaptation framework and a corresponding few-shot learning strategy for domain generalization.
   
 • We implement our proposed IMU denoising method both on open dataset (EuRoC and TUM-VI) and two real robot (car and Quadruped robots) with multiple IMUs. The performance verifies the effectiveness of our method.
   
@@ -92,7 +92,7 @@ Municipal Level:
 
 School Level:
 
-• Scholarship for People of the Year on Campus in academic year 2018-2019 <mark>(Only 10 in NUST<mark>) (2019.11).
+• Scholarship for People of the Year on Campus in academic year 2018-2019 (Only 10 in NUST<mark>) (2019.11).
   
 • Outstanding Graduate Representative (2020.06).
 
@@ -102,10 +102,10 @@ School Level:
 - *2020.09 - 2022.05*, Master of Science, Columbia University, New York. 
 - *2016.09 - 2020.06*, Bachelor of Engineering, Naning Univerisity of Science and Technology, Nanjing. 
 
-# 💬 Invited Talks
+# 💻 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💬 Internships
 - *2021.01 - 2021.03*, Perception and Fusion Intern of Robotics Department, Sinovation Ventures, Beijing.
 - *2018.07 - 2018.08*, Quality Inspection Intern, Nanjing Bureau of Quality and Technical Supervision, Nanjing.
