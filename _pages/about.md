@@ -102,7 +102,7 @@ School Level:
 - *2020.09 - 2022.05*, Master of Science, Columbia University, New York. 
 - *2016.09 - 2020.06*, Bachelor of Engineering, Naning Univerisity of Science and Technology, Nanjing. 
 
-# 💻 Gallery
+# 💻 Course Project Gallery
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
