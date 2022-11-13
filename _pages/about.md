@@ -107,7 +107,9 @@ School Level:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-[![Soft Robot](https://res.cloudinary.com/marcomontalbano/image/upload/v1646672990/video_to_markdown/images/youtube--Rx6Fo3JLdqw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Rx6Fo3JLdqw "Soft Robot")
+<img src="/robot.jpeg" width="500pt"> <a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw">
+<img src="/robotstudio.jpg" width="500pt"> <a href="[https://www.youtube.com/watch?v=g9lacYcaEdc">
+
 
 
 # 💬 Internships
