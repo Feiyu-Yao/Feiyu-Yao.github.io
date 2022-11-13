@@ -39,7 +39,7 @@ I graduated from Columbia University with a master of science degree. My major i
   
 • We propose an IMU denoising method composed by a domain adaptation framework and a corresponding few-shot learning strategy for domain generalization.
   
-• We implement our proposed IMU denoising method both on open dataset (EuRoC and TUM-VI) and two real robot (car and Quadruped robots) with multiple IMUs. The performance verifies the effectiveness of our method.
+• We implement our proposed IMU denoising method both on open dataset (EuRoC and TUM-VI) and two real robot (car and quadruped robots) with multiple IMUs. The performance verifies the effectiveness of our method.
   
 </div>
 </div>
