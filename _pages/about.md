@@ -109,8 +109,7 @@ School Level:
 -->
 <a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw"> <img src="images/robot.jpg" width=300pt> </a>  <a href="https://www.youtube.com/watch?v=g9lacYcaEdc"> <img src="images/robotstudio.jpg" width=300pt> </a>
 
-
-<img src="images/objectdetection.jpg" width=300pt>
+<img src="images/objectdetection.jpg" width=300pt> <img src="images/multimodal.jpg" width=300pt> 
   
  
 
