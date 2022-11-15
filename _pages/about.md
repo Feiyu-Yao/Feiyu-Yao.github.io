@@ -113,7 +113,7 @@ School Level:
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper1.png' alt="sym" width="200%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robot_matlab.jpg' alt="sym" width=200pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Few-shot Domain Adaptation for IMU Denoising](https://arxiv.org/abs/2201.01537)
