@@ -107,12 +107,29 @@ School Level:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-<a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw"> <img src="images/robot.jpg" width=200pt> </a>  <a href="https://www.youtube.com/watch?v=g9lacYcaEdc"> <img src="images/robotstudio.jpg" width=200pt> </a>
+<a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw"> <img src="images/robot.jpg" width=250pt> </a>  <a href="https://www.youtube.com/watch?v=g9lacYcaEdc"> <img src="images/robotstudio.jpg" width=250pt> </a>
 
-<img src="images/objectdetection.jpg" width=200pt> <img src="images/multimodal.jpg" width=200pt> 
+<img src="images/objectdetection.jpg" width=250pt> <img src="images/multimodal.jpg" width=250pt> 
 
-<img src="images/robot_matlab.jpg" width=200pt> <img src="images/robotarm.jpg" width=200pt> 
+<img src="images/robot_matlab.jpg" width=250pt> <img src="images/robotarm.jpg" width=250pt> 
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper1.png' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-shot Domain Adaptation for IMU Denoising](https://arxiv.org/abs/2201.01537)
+
+**Feiyu Yao**, Zongkai Wu, Zhenyu Wei, Donglin Wang
+
+• We are the first to take notice of the low-cost IMU denoising generalization problem brought by different IMUs in different application scenarios and locate the problem to the Embedding module.
+  
+• We propose an IMU denoising method composed by a domain adaptation framework and a corresponding few-shot learning strategy for domain generalization.
+  
+• We implement our proposed IMU denoising method both on open dataset (EuRoC and TUM-VI) and two real robot (car and quadruped robots) with multiple IMUs. The performance verifies the effectiveness of our method.
+  
+</div>
+</div>
 
   
  
