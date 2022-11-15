@@ -107,24 +107,106 @@ School Level:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-<a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw"> <img src="images/robot.jpg" width=200pt> </a>  <a href="https://www.youtube.com/watch?v=g9lacYcaEdc"> <img src="images/robotstudio.jpg" width=200pt> </a> <img src="images/objectdetection.jpg" width=200pt> 
+<a href="https://www.youtube.com/watch?v=g9lacYcaEdc"> <img src="images/robotstudio.jpg" width=200pt> </a>  <a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw"> <img src="images/robot.jpg" width=200pt> </a>  <img src="images/objectdetection.jpg" width=200pt> 
 
 <img src="images/multimodal.jpg" width=200pt> <img src="images/robot_matlab.jpg" width=200pt> <img src="images/robotarm.jpg" width=200pt> 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/robot_matlab.jpg' alt="sym" width=200pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robotstudio.jpg' alt="sym" width=500pt></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Few-shot Domain Adaptation for IMU Denoising](https://arxiv.org/abs/2201.01537)
+[Biped Robot Dance](https://www.youtube.com/watch?v=g9lacYcaEdc)
 
-**Feiyu Yao**, Zongkai Wu, Zhenyu Wei, Donglin Wang
+• Brainstormed appearance of organic-looking two-legged robot, and designed the CAD model of all components.
+ 
+• Fabricated each component of robot using 3D printing and assembled components with the Raspberry Pi, motors, controller board, etc., as entire robot.
+  
+• Achieved 1st in of robot speed competition.
+  
+• Robot dance show is online: https://www.youtube.com/watch?v=g9lacYcaEdc.
 
-• We are the first to take notice of the low-cost IMU denoising generalization problem brought by different IMUs in different application scenarios and locate the problem to the Embedding module.
   
-• We propose an IMU denoising method composed by a domain adaptation framework and a corresponding few-shot learning strategy for domain generalization.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robot.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Soft Robot with Genetic Algorithm](https://www.youtube.com/watch?v=Rx6Fo3JLdqw)
   
-• We implement our proposed IMU denoising method both on open dataset (EuRoC and TUM-VI) and two real robot (car and quadruped robots) with multiple IMUs. The performance verifies the effectiveness of our method.
+  
+• Built virtual physics engine and 3D environment with C++ and OpenGL to simulate the real-world that satisfies the laws of physics.
+  
+  
+• Treated each soft robot as a parent genotype and iteratively utilized the selection, mutation, and crossover mechanism to evolve the internal state of soft robots to improve the speed of hopping gait.
+  
+  
+• Designed multiple criteria (speed, age, mass center and support plan) and optimized robot population referring to pareto front.
+  
+  
+• Best soft robot performance demo: https://www.youtube.com/watch?v=Rx6Fo3JLdqw  
+  
+ 
+
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Object Detection in Haze]
+  
+  
+• Combined dehazing network (AECR-NET) and object detection network (YOLO v5) with data augmentation strategy such as rotation, resizing and fine-tuning components on different datasets.
+• Won 1st in Class
+
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/multimodal.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Object Detection in Haze]
+  
+  
+• Developed an algorithm for referring video object segmentation task, which aimed to do object segmentation for each frame in video.
+  
+• Established causal inference analysis for existing methods and located failure cases on unbalanced object category. distribution in dataset. Applied contrastive learning to reduce image features with no causal relevance.
+ 
+ 
+• The model can get better performance on fine-grained picture with less training time. 
+
+
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robot_matlab.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robotarm.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic Torque Control of Multi-link Robotic Arms]
+
+• Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions in OpenAI Gym.
+  
+• Approximated forward dynamic model with multilayer perceptron, trained on the data generated by physical analog. The Robotic arm’s performance will be similar to physical analog only when data is sufficient and target position is not far from initial position).
+
+• Compared performance of traditional control method (Modern Predictive Control) with Reinforcement Learning methods (Deep Q-Network and Proximal Policy Optimization).
+
   
 </div>
 </div>
