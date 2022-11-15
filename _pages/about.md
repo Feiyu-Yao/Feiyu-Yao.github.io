@@ -107,11 +107,11 @@ School Level:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-<a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw"> <img src="images/robot.jpg" width=300pt> </a>  <a href="https://www.youtube.com/watch?v=g9lacYcaEdc"> <img src="images/robotstudio.jpg" width=300pt> </a>
+<a href="https://www.youtube.com/watch?v=Rx6Fo3JLdqw"> <img src="images/robot.jpg" width=200pt> </a>  <a href="https://www.youtube.com/watch?v=g9lacYcaEdc"> <img src="images/robotstudio.jpg" width=200pt> </a>
 
-<img src="images/objectdetection.jpg" width=300pt> <img src="images/multimodal.jpg" width=300pt> 
+<img src="images/objectdetection.jpg" width=200pt> <img src="images/multimodal.jpg" width=200pt> 
 
-<img src="images/robot_matlab.jpg" width=300pt> <img src="images/robotarm.jpg" width=300pt> 
+<img src="images/robot_matlab.jpg" width=200pt> <img src="images/robotarm.jpg" width=200pt> 
 
 
   
