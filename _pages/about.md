@@ -247,6 +247,6 @@ School Level:
 
 <div style="text-align:center;width:500px;border:greensolid1px;">
 
-<a href="https://clustrmaps.com/site/1breu"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=gGsZ2GV27lswZfmaENUMwKdvpHpSR5FyZrZFrO_rjvk&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1breu"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=gGsZ2GV27lswZfmaENUMwKdvpHpSR5FyZrZFrO_rjvk&cl=ffffff" style="margin:0 auto;"/></a>
 
 <div>
