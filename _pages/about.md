@@ -70,31 +70,31 @@ Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu, Wenxiang Deng
 
 - International Level: 
 
-• Honorable Mention in Mathematical Contest in Modeling (2018.04).
+&nbsp Honorable Mention in Mathematical Contest in Modeling (2018.04).
 
-• Silver Award of the 7th China International "Internet plus" College Students Innovation and Entrepreneurship Competition --- Intelligent Fusion Control Algorithm Chip.
+&nbsp Silver Award of the 7th China International "Internet plus" College Students Innovation and Entrepreneurship Competition --- Intelligent Fusion Control Algorithm Chip.
 
 - National Level: 
 
-• Scholarship, 2017 Ministry of Industry and Information Technology of The P.R.C. Innovation and Entrepreneurship Scholarship (2018.05).
+&nbsp Scholarship, 2017 Ministry of Industry and Information Technology of The P.R.C. Innovation and Entrepreneurship Scholarship (2018.05).
 
-• Scholarship, 2017 Ministry of Industry and Information Technology of The P.R.C. Innovation and Entrepreneurship Scholarship (2019.05).
+&nbsp Scholarship, 2017 Ministry of Industry and Information Technology of The P.R.C. Innovation and Entrepreneurship Scholarship (2019.05).
 
-• Third prize in National Cipher Technology Competition (2018.11).
+&nbsp Third prize in National Cipher Technology Competition (2018.11).
 
 - Provincial Level:
 
-• Second prize in Jiangsu Province 14th College Students’ Physics and Experimental Technology Works Innovation Competition (2017.11).
+&nbsp Second prize in Jiangsu Province 14th College Students’ Physics and Experimental Technology Works Innovation Competition (2017.11).
 
 - Municipal Level:
 
-• Excellent Intern in Summer Internship for College Students (2018.12).
+&nbsp Excellent Intern in Summer Internship for College Students (2018.12).
 
-School Level:
+- School Level:
 
-• Scholarship for People of the Year on Campus in academic year 2018-2019 (Only 10 in NUST) (2019.11).
+&nbsp Scholarship for People of the Year on Campus in academic year 2018-2019 (Only 10 in NUST) (2019.11).
   
-• Outstanding Graduate Representative (2020.06).
+&nbsp Outstanding Graduate Representative (2020.06).
 
 
 
