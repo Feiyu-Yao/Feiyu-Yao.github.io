@@ -28,6 +28,7 @@ I graduated from Columbia University with a master of science degree. My major i
 
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,6 +41,22 @@ I graduated from Columbia University with a master of science degree. My major i
 • We propose an IMU denoising method composed by a domain adaptation framework and a corresponding few-shot learning strategy for domain generalization.
   
 • We implement our proposed IMU denoising method both on open dataset (EuRoC and TUM-VI) and two real robot (car and quadruped robots) with multiple IMUs. The performance verifies the effectiveness of our method.
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2301.04352.pdf)
+
+Ting Wang, Zongkai Wu2, **Feiyu Yao** and Donglin Wang
+
+• We propose an environment representation for VLN-CE. We introduce semantic information and construct the ERG in real time through object detection, where the relational representation is learned by GCN.
+  
+• We propose a new cross-modal attention VLN-CE framework combined with an environment representation module. In the training phase, We consider a combination of the two losses, the navigation cross-entropy loss and the spatial consistency loss of the relationship between the same pair of objects when the perspective changes.
+  
+• The experimental results demonstrate that our graph based environment representation indeed helps to improve the navigation performance. Better cross-modal matching is attained and the generalization of the navigation model is enhanced in unseen environments.
   
 </div>
 </div>
