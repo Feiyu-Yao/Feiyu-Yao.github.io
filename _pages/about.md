@@ -50,7 +50,7 @@ I graduated from Columbia University with a master of science degree. My major i
 
 [Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2301.04352.pdf)
 
-Ting Wang, Zongkai Wu2, **Feiyu Yao** and Donglin Wang
+Ting Wang, Zongkai Wu, **Feiyu Yao** and Donglin Wang
 
 • We propose an environment representation for VLN-CE. We introduce semantic information and construct the ERG in real time through object detection, where the relational representation is learned by GCN.
   
