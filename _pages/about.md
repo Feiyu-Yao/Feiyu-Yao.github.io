@@ -103,6 +103,8 @@ Third prize in National Cipher Technology Competition (2018.11).
 
 Second prize in Jiangsu Province 14th College Students’ Physics and Experimental Technology Works Innovation Competition (2017.11).
 
+The first prize of Physics Olympique of Middle School students in Jiangsu Province in 2015 (2015.10).
+
 - Municipal Level:
 
 Excellent Intern in Summer Internship for College Students (2018.12).
