@@ -26,6 +26,25 @@ I graduated from Columbia University with a master of science degree. My major i
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper_AAAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective](https://arxiv.org/abs/2401.11783)
+
+**Feiyu Yao**, Zongkai Wu, Li Yi
+
+
+• We are the first to conduct research on full body pose reconstruction with sparse sensing from graph perspective.
+The task is viewed as predicting missing nodes in an established graph.
+  
+• We propose a framework to reconstruct full body motions via Body Pose Graph (BPG). Motion features with temporal and spatial properties are generated and assigned to be initial node features. Then a Graph Neural Network with expressive edges is applied to updated nodes. Full body motion sequence is generated from the nodeassociated joint movements.
+  
+• Experiment results demonstrate that our framework achieves state of the art performance on on full-body
+avatar estimation from sparse inputs. Further analysis shows the contribution of each component to the performance improvement, especially in the lower body joints.
+  
+</div>
+</div>
+
 
 
 
