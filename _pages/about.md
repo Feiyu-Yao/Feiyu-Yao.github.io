@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font size=4> I am looking for PhD positions. My research interest mainly focus on human-centric Multimodal learning, aiming to inferring how humans move in and interact in real world. Application domains of interest include Augmented and Virtual Reality, Human Robot Interaction. 
+<font size=4> Currently a researcher in 2012 Labs. My research interest mainly focus on human-centric Multimodal learning, aiming to inferring how humans move in and interact in real world. Application domains of interest include Augmented and Virtual Reality, Human Robot Interaction. 
 I graduated from Columbia University with a master of science degree. My major is Mechanical Engineering and my concentration is robotics and control with an excellent GPA 4.198/4. </font> 
 
 
