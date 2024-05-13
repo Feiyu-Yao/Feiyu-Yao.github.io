@@ -29,7 +29,7 @@ I graduated from Columbia University with a master of science degree. My major i
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper_AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective](https://arxiv.org/abs/2401.11783)
+[Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective](https://doi.org/10.1609/aaai.v38i7.28483)
 
 **Feiyu Yao**, Zongkai Wu, Li Yi
 
@@ -48,7 +48,7 @@ avatar estimation from sparse inputs. Further analysis shows the contribution of
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2301.04352.pdf)
+[Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments](https://doi.org/10.1109/ICASSP48485.2024.10446850)
 
 Ting Wang, Zongkai Wu, **Feiyu Yao** and Donglin Wang
 
@@ -83,7 +83,7 @@ Ting Wang, Zongkai Wu, **Feiyu Yao** and Donglin Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISA Transactions</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks]([https://arxiv.org/abs/2201.01537](https://www.sciencedirect.com/science/article/abs/pii/S001905781930521X))
+[Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks](https://doi.org/10.1016/j.isatra.2019.11.027)
 
 Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu, Wenxiang Deng
   
