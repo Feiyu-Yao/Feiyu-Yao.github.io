@@ -338,9 +338,9 @@ Outstanding Graduate Representative (2020.06).
 
 # 🪐 Service
 
-    • Being the reviewer of ACM Multimedia (ACM MM) conference, IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT) Journal and The International Joint Conference on Neural Networks (IJCNN) conference.
+Being the reviewer of ACM Multimedia (ACM MM) conference, IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT) Journal and The International Joint Conference on Neural Networks (IJCNN) conference.
     
-    • Served as Teaching Assistant in EE6601 in Columbia University.
+Served as Teaching Assistant in EE6601 in Columbia University.
 
 
 
