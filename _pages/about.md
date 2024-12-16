@@ -290,6 +290,8 @@ Outstanding Graduate Representative (2020.06).
 
 
 # Visitor Map
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=gGsZ2GV27lswZfmaENUMwKdvpHpSR5FyZrZFrO_rjvk&co=388bc6&cmo=53ff5f&cmn=ff5353&ct=ffffff'></script>
+</body>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=gGsZ2GV27lswZfmaENUMwKdvpHpSR5FyZrZFrO_rjvk&co=2097ec&ct=ffffff&cmo=53ff5f&cmn=ff5353'></script>
+<body>
 
 
