@@ -290,8 +290,6 @@ Outstanding Graduate Representative (2020.06).
 
 
 # Visitor Map
-</body>
 <a href='https://clustrmaps.com/site/1breu'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=300&t=tt&d=gGsZ2GV27lswZfmaENUMwKdvpHpSR5FyZrZFrO_rjvk&co=ffffff&ct=808080'/></a>
-<body>
 
 
