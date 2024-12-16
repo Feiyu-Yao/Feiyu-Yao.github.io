@@ -39,7 +39,7 @@ Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective
 
 **AAAI 2024**
 
-[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28483)
+[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28483) [code](https://github.com/Feiyu-Yao/Full-Body-Motion-Reconstruction-with-Sparse-Sensing-from-Graph-Perspective)
 
 </div>
 </div>
