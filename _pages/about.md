@@ -26,29 +26,31 @@ I earned a Master of Science degree from Columbia University, specializing in a 
 # 📝 Publications 
 
 
-**Feiyu Yao**, Zongkai Wu, Li Yi, “Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective”, AAAI 2024, https://ojs.aaai.org/index.php/AAAI/article/view/28483.
+**Feiyu Yao**, Zongkai Wu, Li Yi, “Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective”, **AAAI 2024**, https://ojs.aaai.org/index.php/AAAI/article/view/28483.
 
 
-Yilun Liu, Minggui He, **Feiyu Yao (corresponding author)**, Yuhe Ji, Shimin Tao, Jingzhou Du, Duan Li, Jian Gao, Li Zhang, Hao Yang, Boxing Chen, Osamu Yoshie, “What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance”, submitted to ACL Rolling Review 2025, in Arxiv, https://arxiv.org/abs/2408.12910.
+Yilun Liu, Minggui He, **Feiyu Yao (corresponding author)**, Yuhe Ji, Shimin Tao, Jingzhou Du, Duan Li, Jian Gao, Li Zhang, Hao Yang, Boxing Chen, Osamu Yoshie, “What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance”, submitted to **ACL Rolling Review 2025**, in Arxiv, https://arxiv.org/abs/2408.12910.
 
 
 **Feiyu Yao**, Zongkai Wu, Zhenyu Wei, Donglin Wang, “Few-shot Domain Adaptation for IMU Denoising”, in Arxiv, http://arxiv.org/abs/2201.01537.
-Ting Wang, Zongkai Wu, **Feiyu Yao**, Donglin Wang, “Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments”, ICASSP 2024, https://arxiv.org/abs/2301.04352.
 
 
-Yuhe Ji, Yilun Liu, **Feiyu Yao**, Minggui He, Shimin Tao, Xiaofeng Zhao, Su Chang, Xinhua Yang, Weibin Meng, Yuming Xie, Boxing Chen, Hao Yang, “Adapting Large Language Models to Log Analysis with Interpretable Domain Knowledge”, submitted to ICSE 2025, in Arxiv, https://arxiv.org/abs/2412.01377.
+Ting Wang, Zongkai Wu, **Feiyu Yao**, Donglin Wang, “Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments”, **ICASSP 2024**, https://arxiv.org/abs/2301.04352.
 
 
-Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu and Wenxiang Deng, "Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks," in ISA Transactions, DOI:10.1016/j.isatra.2019.11.027.
+Yuhe Ji, Yilun Liu, **Feiyu Yao**, Minggui He, Shimin Tao, Xiaofeng Zhao, Su Chang, Xinhua Yang, Weibin Meng, Yuming Xie, Boxing Chen, Hao Yang, “Adapting Large Language Models to Log Analysis with Interpretable Domain Knowledge”, submitted to **ICSE 2025**, in Arxiv, https://arxiv.org/abs/2412.01377.
 
 
-Yilun Liu, Shimin Tao, Weibin Meng, **Feiyu Yao**, Xiaofeng Zhao, Hao Yang, “LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis”, ICSE 2024, https://doi.org/10.1145/3639478.3643108
+Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu and Wenxiang Deng, "Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks," in **ISA Transactions**, DOI:10.1016/j.isatra.2019.11.027.
 
 
-Ce Zhou, Yilun Liu, Weibin Meng, shimin tao, Weinan Tian, **Feiyu Yao**, Xiaochun Li, Tao Han, Boxing Chen, Hao Yang, “SRDC: Semantics-based Ransomware Detection and Classification with LLM-assisted Pre-training”, AAAI 2025
+Yilun Liu, Shimin Tao, Weibin Meng, **Feiyu Yao**, Xiaofeng Zhao, Hao Yang, “LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis”, **ICSE 2024**, https://doi.org/10.1145/3639478.3643108
 
 
-Wei Tang, Xiaosong Qiao, Xiaofeng Zhao, Min Zhang, Chang Su, Yuang Li, Yinglu Li, Yilun Liu, **Feiyu Yao**, Shimin Tao, Hao Yang, He Xianghui, “Enhancing inference capabilities of llms with knowledge graphs", ACL 2024 Workshop, https://aclanthology.org/2024.textgraphs-1.11/
+Ce Zhou, Yilun Liu, Weibin Meng, shimin tao, Weinan Tian, **Feiyu Yao**, Xiaochun Li, Tao Han, Boxing Chen, Hao Yang, “SRDC: Semantics-based Ransomware Detection and Classification with LLM-assisted Pre-training”, **AAAI 2025**
+
+
+Wei Tang, Xiaosong Qiao, Xiaofeng Zhao, Min Zhang, Chang Su, Yuang Li, Yinglu Li, Yilun Liu, **Feiyu Yao**, Shimin Tao, Hao Yang, He Xianghui, “Enhancing inference capabilities of llms with knowledge graphs", **ACL 2024 Workshop**, https://aclanthology.org/2024.textgraphs-1.11/
 
 
 
@@ -234,6 +236,11 @@ Outstanding Graduate Representative (2020.06).
 - *2022.10 - 2024.10*, Huawei, Beijing / Hangzhou.
 
 
+# 🪐 Service
+
+    • Being the reviewer of ACM Multimedia (ACM MM) conference, IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT) Journal and The International Joint Conference on Neural Networks (IJCNN) conference.
+    
+    • Served as Teaching Assistant in EE6601 in Columbia University.
 
 
 
@@ -241,9 +248,7 @@ Outstanding Graduate Representative (2020.06).
 
 
 
-
-
-# Visitor Map
+# 🌏 Visitor Map
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=b1ceff&w=600&t=tt&d=gGsZ2GV27lswZfmaENUMwKdvpHpSR5FyZrZFrO_rjvk&co=ffffff&ct=ff9100&cmo=f3ff00&cmn=ffed00'></script>
 
 
