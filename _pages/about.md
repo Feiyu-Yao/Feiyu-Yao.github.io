@@ -30,7 +30,7 @@ I earned a Master of Science degree from Columbia University, specializing in a 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_AAAI.png' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_AAAI.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective
@@ -44,7 +44,7 @@ Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/aar.png' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/aar.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance
@@ -59,7 +59,7 @@ in submission
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv.png' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
   
 Few-shot Domain Adaptation for IMU Denoising
@@ -75,7 +75,7 @@ in Arxiv,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icassp.png' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icassp.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
   
 Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments
@@ -89,7 +89,7 @@ Ting Wang, Zongkai Wu, **Feiyu Yao**, Donglin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icseeee2025.png' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icseeee2025.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 Adapting Large Language Models to Log Analysis with Interpretable Domain Knowledge
@@ -103,7 +103,7 @@ in submission
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper2.png' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper2.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks
@@ -117,7 +117,7 @@ Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu and Wenxiang Deng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icse2024.png' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icse2024.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis
@@ -132,7 +132,7 @@ Yilun Liu, Shimin Tao, Weibin Meng, **Feiyu Yao**, Xiaofeng Zhao, Hao Yang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/sdrc.png' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sdrc.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 SRDC: Semantics-based Ransomware Detection and Classification with LLM-assisted Pre-training
@@ -144,7 +144,7 @@ Ce Zhou, Yilun Liu, Weibin Meng, shimin tao, Weinan Tian, **Feiyu Yao**, Xiaochu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ws.png' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ws.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 Enhancing inference capabilities of llms with knowledge graphs
