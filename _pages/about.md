@@ -211,7 +211,7 @@ Outstanding Graduate Representative (2020.06).
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/robotstudio.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robotstudio.jpg' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>[Biped Robot Dance](https://www.youtube.com/watch?v=g9lacYcaEdc)</b>
@@ -229,7 +229,7 @@ Outstanding Graduate Representative (2020.06).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/robot.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robot.jpg' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>[Soft Robot with Genetic Algorithm](https://www.youtube.com/watch?v=Rx6Fo3JLdqw)</b>
@@ -253,7 +253,7 @@ Outstanding Graduate Representative (2020.06).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Object Detection in Haze</b>
@@ -270,7 +270,7 @@ Outstanding Graduate Representative (2020.06).
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/multimodal.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/multimodal.jpg' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Object Detection in Haze</b>
@@ -294,7 +294,7 @@ Outstanding Graduate Representative (2020.06).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/quardruped.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/quardruped.jpg' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
   
 <b>Reinforcement Learning in Quadruped Robots</b>
@@ -313,7 +313,7 @@ Outstanding Graduate Representative (2020.06).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/robotarm.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robotarm.jpg' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Dynamic Torque Control of Multi-link Robotic Arms</b>
