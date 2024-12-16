@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font size=4> Currently a researcher in 2012 Labs. My research interest mainly focus on human-centric Multimodal learning, aiming to inferring how humans move in and interact in real world. Application domains of interest include Augmented and Virtual Reality, Human Robot Interaction. 
-I graduated from Columbia University with a master of science degree. My major is Mechanical Engineering and my concentration is robotics and control with an excellent GPA 4.198/4. </font> 
+<font size=4> Currently a researcher in Shanghai Qizhi Institution. My research interest mainly focus on 3D computer vision, AIGC, LLM. Aiming to percept and reconstruct the world in virtual reality for embodied intelligence. 
+I earned a Master of Science degree from Columbia University, specializing in a range of courses from control systems to computer science, graduating with an exceptional GPA of 4.198/4.3. </font> 
 
 
 
@@ -26,76 +26,30 @@ I graduated from Columbia University with a master of science degree. My major i
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper_AAAI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective](https://doi.org/10.1609/aaai.v38i7.28483)
-
-**Feiyu Yao**, Zongkai Wu, Li Yi
+**Feiyu Yao**, Zongkai Wu, Li Yi, “Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective”, AAAI 2024, https://ojs.aaai.org/index.php/AAAI/article/view/28483.
 
 
-• We are the first to conduct research on full body pose reconstruction with sparse sensing from graph perspective.
-The task is viewed as predicting missing nodes in an established graph.
-  
-• We propose a framework to reconstruct full body motions via Body Pose Graph (BPG). Motion features with temporal and spatial properties are generated and assigned to be initial node features. Then a Graph Neural Network with expressive edges is applied to updated nodes. Full body motion sequence is generated from the nodeassociated joint movements.
-  
-• Experiment results demonstrate that our framework achieves state of the art performance on on full-body
-avatar estimation from sparse inputs. Further analysis shows the contribution of each component to the performance improvement, especially in the lower body joints.
-  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments](https://doi.org/10.1109/ICASSP48485.2024.10446850)
-
-Ting Wang, Zongkai Wu, **Feiyu Yao** and Donglin Wang
-
-• We propose an environment representation for VLN-CE. We introduce semantic information and construct the ERG in real time through object detection, where the relational representation is learned by GCN.
-  
-• We propose a new cross-modal attention VLN-CE framework combined with an environment representation module. In the training phase, We consider a combination of the two losses, the navigation cross-entropy loss and the spatial consistency loss of the relationship between the same pair of objects when the perspective changes.
-  
-• The experimental results demonstrate that our graph based environment representation indeed helps to improve the navigation performance. Better cross-modal matching is attained and the generalization of the navigation model is enhanced in unseen environments.
-  
-</div>
-</div>
+Yilun Liu, Minggui He, **Feiyu Yao (corresponding author)**, Yuhe Ji, Shimin Tao, Jingzhou Du, Duan Li, Jian Gao, Li Zhang, Hao Yang, Boxing Chen, Osamu Yoshie, “What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance”, submitted to ACL Rolling Review 2025, in Arxiv, https://arxiv.org/abs/2408.12910.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Few-shot Domain Adaptation for IMU Denoising](https://arxiv.org/abs/2201.01537)
-
-**Feiyu Yao**, Zongkai Wu, Zhenyu Wei, Donglin Wang
-
-• We are the first to take notice of the low-cost IMU denoising generalization problem brought by different IMUs in different application scenarios and locate the problem to the Embedding module.
-  
-• We propose an IMU denoising method composed by a domain adaptation framework and a corresponding few-shot learning strategy for domain generalization.
-  
-• We implement our proposed IMU denoising method both on open dataset (EuRoC and TUM-VI) and two real robot (car and quadruped robots) with multiple IMUs. The performance verifies the effectiveness of our method.
-  
-</div>
-</div>
+**Feiyu Yao**, Zongkai Wu, Zhenyu Wei, Donglin Wang, “Few-shot Domain Adaptation for IMU Denoising”, in Arxiv, http://arxiv.org/abs/2201.01537.
+Ting Wang, Zongkai Wu, **Feiyu Yao**, Donglin Wang, “Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments”, ICASSP 2024, https://arxiv.org/abs/2301.04352.
 
 
+Yuhe Ji, Yilun Liu, **Feiyu Yao**, Minggui He, Shimin Tao, Xiaofeng Zhao, Su Chang, Xinhua Yang, Weibin Meng, Yuming Xie, Boxing Chen, Hao Yang, “Adapting Large Language Models to Log Analysis with Interpretable Domain Knowledge”, submitted to ICSE 2025, in Arxiv, https://arxiv.org/abs/2412.01377.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISA Transactions</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks](https://doi.org/10.1016/j.isatra.2019.11.027)
+Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu and Wenxiang Deng, "Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks," in ISA Transactions, DOI:10.1016/j.isatra.2019.11.027.
 
-Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu, Wenxiang Deng
-  
 
-• This paper proposes a composite design of nonlinear neural-networks (NN) and continuous robust integral of the sign of the error (RISE) feedback controller. 
-  
-• To achieve asymptotic stability, a novel RISE term with NN-based feedforward component is developed for the first time to enable the incorporation of model reference adaptive control structure where acceleration signal is not employed. 
+Yilun Liu, Shimin Tao, Weibin Meng, **Feiyu Yao**, Xiaofeng Zhao, Hao Yang, “LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis”, ICSE 2024, https://doi.org/10.1145/3639478.3643108
 
-• The proposed controller guarantees controlled hydraulic system a semi-global asymptotic stability. 
-  
-</div>
-</div>
+
+Ce Zhou, Yilun Liu, Weibin Meng, shimin tao, Weinan Tian, **Feiyu Yao**, Xiaochun Li, Tao Han, Boxing Chen, Hao Yang, “SRDC: Semantics-based Ransomware Detection and Classification with LLM-assisted Pre-training”, AAAI 2025
+
+
+Wei Tang, Xiaosong Qiao, Xiaofeng Zhao, Min Zhang, Chang Su, Yuang Li, Yinglu Li, Yilun Liu, **Feiyu Yao**, Shimin Tao, Hao Yang, He Xianghui, “Enhancing inference capabilities of llms with knowledge graphs", ACL 2024 Workshop, https://aclanthology.org/2024.textgraphs-1.11/
+
 
 
 
