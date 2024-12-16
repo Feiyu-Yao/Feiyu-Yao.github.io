@@ -22,37 +22,138 @@ I earned a Master of Science degree from Columbia University, specializing in a 
 
 
 
+# 💬 Professional Experience
+- *2024.10 - Present*, Shanghai Qizhi Institution, Shanghai. Advisor: Prof. Li Yi.
+- *2022.10 - 2024.10*, Huawei, Beijing / Hangzhou.
+
+
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
 
-**Feiyu Yao**, Zongkai Wu, Li Yi, “Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective”, **AAAI 2024**, https://ojs.aaai.org/index.php/AAAI/article/view/28483.
+Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective
+
+**Feiyu Yao**, Zongkai Wu, Li Yi
+
+**AAAI 2024**
+
+[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28483)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+
+What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance
+
+Yilun Liu, Minggui He, **Feiyu Yao (corresponding author)**, Yuhe Ji, Shimin Tao, Jingzhou Du, Duan Li, Jian Gao, Li Zhang, Hao Yang, Boxing Chen, Osamu Yoshie
+
+in submission
+
+[PDF](https://arxiv.org/abs/2408.12910)
+
+</div>
+</div>
 
 
-Yilun Liu, Minggui He, **Feiyu Yao (corresponding author)**, Yuhe Ji, Shimin Tao, Jingzhou Du, Duan Li, Jian Gao, Li Zhang, Hao Yang, Boxing Chen, Osamu Yoshie, “What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance”, submitted to **ACL Rolling Review 2025**, in Arxiv, https://arxiv.org/abs/2408.12910.
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Few-shot Domain Adaptation for IMU Denoising
+
+**Feiyu Yao**, Zongkai Wu, Zhenyu Wei, Donglin Wang
+
+in Arxiv, 
 
 
-**Feiyu Yao**, Zongkai Wu, Zhenyu Wei, Donglin Wang, “Few-shot Domain Adaptation for IMU Denoising”, in Arxiv, http://arxiv.org/abs/2201.01537.
+[PDF](http://arxiv.org/abs/2201.01537)
+
+</div>
+</div>
 
 
-Ting Wang, Zongkai Wu, **Feiyu Yao**, Donglin Wang, “Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments”, **ICASSP 2024**, https://arxiv.org/abs/2301.04352.
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments
+  
+Ting Wang, Zongkai Wu, **Feiyu Yao**, Donglin Wang
+  
+**ICASSP 2024**
+
+[PDF](https://arxiv.org/abs/2301.04352)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+
+Adapting Large Language Models to Log Analysis with Interpretable Domain Knowledge
+
+Yuhe Ji, Yilun Liu, **Feiyu Yao**, Minggui He, Shimin Tao, Xiaofeng Zhao, Su Chang, Xinhua Yang, Weibin Meng, Yuming Xie, Boxing Chen, Hao Yang
+
+in submission
+
+[PDF](https://arxiv.org/abs/2412.01377)
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+
+Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks
+
+Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu and Wenxiang Deng
+
+**ISA Transactions**
+
+[Page](https://www.sciencedirect.com/science/article/abs/pii/S001905781930521X)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
+
+LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis
+
+Yilun Liu, Shimin Tao, Weibin Meng, **Feiyu Yao**, Xiaofeng Zhao, Hao Yang
+
+**ICSE 2024**
+
+[PDF](https://doi.org/10.1145/3639478.3643108)
 
 
-Yuhe Ji, Yilun Liu, **Feiyu Yao**, Minggui He, Shimin Tao, Xiaofeng Zhao, Su Chang, Xinhua Yang, Weibin Meng, Yuming Xie, Boxing Chen, Hao Yang, “Adapting Large Language Models to Log Analysis with Interpretable Domain Knowledge”, submitted to **ICSE 2025**, in Arxiv, https://arxiv.org/abs/2412.01377.
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
 
-Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu and Wenxiang Deng, "Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks," in **ISA Transactions**, DOI:10.1016/j.isatra.2019.11.027.
+SRDC: Semantics-based Ransomware Detection and Classification with LLM-assisted Pre-training
 
+Ce Zhou, Yilun Liu, Weibin Meng, shimin tao, Weinan Tian, **Feiyu Yao**, Xiaochun Li, Tao Han, Boxing Chen, Hao Yang
 
-Yilun Liu, Shimin Tao, Weibin Meng, **Feiyu Yao**, Xiaofeng Zhao, Hao Yang, “LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis”, **ICSE 2024**, https://doi.org/10.1145/3639478.3643108
+**AAAI 2025**
 
+</div>
+</div>
 
-Ce Zhou, Yilun Liu, Weibin Meng, shimin tao, Weinan Tian, **Feiyu Yao**, Xiaochun Li, Tao Han, Boxing Chen, Hao Yang, “SRDC: Semantics-based Ransomware Detection and Classification with LLM-assisted Pre-training”, **AAAI 2025**
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/objectdetection.jpg' alt="sym" width=500pt></div></div>
+<div class='paper-box-text' markdown="1">
 
+Enhancing inference capabilities of llms with knowledge graphs
 
-Wei Tang, Xiaosong Qiao, Xiaofeng Zhao, Min Zhang, Chang Su, Yuang Li, Yinglu Li, Yilun Liu, **Feiyu Yao**, Shimin Tao, Hao Yang, He Xianghui, “Enhancing inference capabilities of llms with knowledge graphs", **ACL 2024 Workshop**, https://aclanthology.org/2024.textgraphs-1.11/
+Wei Tang, Xiaosong Qiao, Xiaofeng Zhao, Min Zhang, Chang Su, Yuang Li, Yinglu Li, Yilun Liu, **Feiyu Yao**, Shimin Tao, Hao Yang, He Xianghui
 
+ACL 2024 Workshop
 
+[PDF](https://aclanthology.org/2024.textgraphs-1.11/)
+
+</div>
+</div>
 
 
 
@@ -94,6 +195,7 @@ Outstanding Graduate Representative (2020.06).
 # 📖 Educations
 - *2020.09 - 2022.05*, Master of Science, Columbia University, New York. 
 - *2016.09 - 2020.06*, Bachelor of Engineering, Naning Univerisity of Science and Technology, Nanjing. 
+
 
 # 💻 Course Project Gallery
 <!--
@@ -229,11 +331,6 @@ Outstanding Graduate Representative (2020.06).
 </div>
 
 
-
-
-
-# 💬 Professional Experience
-- *2022.10 - 2024.10*, Huawei, Beijing / Hangzhou.
 
 
 # 🪐 Service
