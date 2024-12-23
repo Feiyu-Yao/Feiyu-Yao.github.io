@@ -33,7 +33,7 @@ I earned a Master of Science degree from Columbia University, specializing in a 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_AAAI.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
-****Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective****
+**Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective**
 
 **Feiyu Yao**, Zongkai Wu, Li Yi
 
@@ -47,7 +47,7 @@ I earned a Master of Science degree from Columbia University, specializing in a 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/aar.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
-****What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance****
+**What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance**
 
 Yilun Liu, Minggui He, **Feiyu Yao (corresponding author)**, Yuhe Ji, Shimin Tao, Jingzhou Du, Duan Li, Jian Gao, Li Zhang, Hao Yang, Boxing Chen, Osamu Yoshie
 
@@ -62,7 +62,7 @@ in submission
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
   
-****Few-shot Domain Adaptation for IMU Denoising****
+**Few-shot Domain Adaptation for IMU Denoising**
 
 **Feiyu Yao**, Zongkai Wu, Zhenyu Wei, Donglin Wang
 
@@ -78,7 +78,7 @@ in Arxiv,
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/icassp.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
   
-****Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments****
+**Graph based Environment Representation for Vision-and-Language Navigation in Continuous Environments**
   
 Ting Wang, Zongkai Wu, **Feiyu Yao**, Donglin Wang
   
@@ -92,7 +92,7 @@ Ting Wang, Zongkai Wu, **Feiyu Yao**, Donglin Wang
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/icseeee2025.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
-****Adapting Large Language Models to Log Analysis with Interpretable Domain Knowledge****
+**Adapting Large Language Models to Log Analysis with Interpretable Domain Knowledge**
 
 Yuhe Ji, Yilun Liu, **Feiyu Yao**, Minggui He, Shimin Tao, Xiaofeng Zhao, Su Chang, Xinhua Yang, Weibin Meng, Yuming Xie, Boxing Chen, Hao Yang
 
@@ -106,7 +106,7 @@ in submission
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper2.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
-****Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks****
+**Model reference adaptive tracking control for hydraulic servo systems with nonlinear neural-networks**
 
 Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu and Wenxiang Deng
 
@@ -120,7 +120,7 @@ Zhikai Yao, Jianyong Yao, **Feiyu Yao**, Qiang Xu, Minrui Xu and Wenxiang Deng
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/icse2024.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
-****LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis****
+**LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis**
 
 Yilun Liu, Shimin Tao, Weibin Meng, **Feiyu Yao**, Xiaofeng Zhao, Hao Yang
 
@@ -135,7 +135,7 @@ Yilun Liu, Shimin Tao, Weibin Meng, **Feiyu Yao**, Xiaofeng Zhao, Hao Yang
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sdrc.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
-****SRDC: Semantics-based Ransomware Detection and Classification with LLM-assisted Pre-training****
+**SRDC: Semantics-based Ransomware Detection and Classification with LLM-assisted Pre-training**
 
 Ce Zhou, Yilun Liu, Weibin Meng, shimin tao, Weinan Tian, **Feiyu Yao**, Xiaochun Li, Tao Han, Boxing Chen, Hao Yang
 
@@ -147,7 +147,7 @@ Ce Zhou, Yilun Liu, Weibin Meng, shimin tao, Weinan Tian, **Feiyu Yao**, Xiaochu
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ws.png' alt="sym" width=300pt></div></div>
 <div class='paper-box-text' markdown="1">
 
-****Enhancing inference capabilities of llms with knowledge graphs****
+**Enhancing inference capabilities of llms with knowledge graphs**
 
 Wei Tang, Xiaosong Qiao, Xiaofeng Zhao, Min Zhang, Chang Su, Yuang Li, Yinglu Li, Yilun Liu, **Feiyu Yao**, Shimin Tao, Hao Yang, He Xianghui
 
