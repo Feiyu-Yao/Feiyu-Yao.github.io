@@ -18,15 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <font size=4> Currently a researcher in Shanghai Qizhi Institution. My research interest mainly focus on 3D computer vision, AIGC, LLM. Aiming to percept and reconstruct the world in virtual reality for embodied intelligence. 
-I earned a Master of Science degree from Columbia University, specializing in a range of courses from control systems to computer science, graduating with an exceptional GPA of 4.198/4.3. </font> 
-
 
 
 # 💬 Professional Experience
 - *2024.10 - Present*, Shanghai Qizhi Institution, Shanghai. Advisor: Prof. Li Yi.
 - *2022.10 - 2024.10*, Huawei, Beijing / Hangzhou.
 
-
+# 📖 Educations
+- *2020.09 - 2022.05*, Master of Science, Columbia University, New York. GPA: 4.198/4.3. Topic: Robotics and Control.
+- *2016.09 - 2020.06*, Bachelor of Engineering, Naning Univerisity of Science and Technology, Nanjing. 
 
 # 📝 Publications 
 
@@ -193,11 +193,6 @@ Scholarship for People of the Year on Campus in academic year 2018-2019 (Only 10
   
 Outstanding Graduate Representative (2020.06).
 
-
-
-# 📖 Educations
-- *2020.09 - 2022.05*, Master of Science, Columbia University, New York. 
-- *2016.09 - 2020.06*, Bachelor of Engineering, Naning Univerisity of Science and Technology, Nanjing. 
 
 
 # 💻 Course Project Gallery
