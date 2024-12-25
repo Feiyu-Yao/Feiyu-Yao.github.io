@@ -20,6 +20,13 @@ redirect_from:
 <font size=4> Currently a researcher in Shanghai Qizhi Institution. My research interest mainly focus on 3D computer vision, AIGC, LLM. Aiming to percept and reconstruct the world in virtual reality for embodied intelligence. 
 
 
+
+
+
+
+
+
+
 # 💬 Professional Experience
 - *2024.10 - Present*, Shanghai Qizhi Institution, Shanghai. Advisor: Prof. Li Yi. Topic: 4D Scene Reconstruction.
 - *2022.10 - 2024.10*, Huawei, Beijing / Hangzhou. Topic: Text-to-Image generation, dataset construction and Training vertical domain LLMs (Translation, AIops, AI Agent), Software Development. 
