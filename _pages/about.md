@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font size=4> Currently a researcher in Shanghai Qizhi Institution. My research interest mainly focus on 3D computer vision, AIGC, LLM. Aiming to percept and reconstruct the world in virtual reality for embodied intelligence. 
+<font size=4> Currently a researcher in Shanghai Qizhi Institution. My research interest mainly focus on 3D computer vision, AIGC, LLM. Aiming to percept and reconstruct the world in virtual reality for embodied intelligence. </font>
 
 
 
