@@ -3,17 +3,22 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Professional Experience"
+    url: "/#Professional-Experience"
+    
+  - title: "Educations"
+    url: "/#-educations"
+
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+
 
   - title: "Course Project Gallery"
     url: "/#-course-project-gallery"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Service"
+    url: "/#-Service"
