@@ -25,15 +25,20 @@ redirect_from:
 
 
 
-
+<span class='anchor' id='Professional-Experience'></span>
 
 # 💬 Professional Experience
 - *2024.10 - Present*, Shanghai Qizhi Institution, Shanghai. Advisor: Prof. Li Yi. Topic: 4D Scene Reconstruction.
 - *2022.10 - 2024.10*, Huawei, Beijing / Hangzhou. Topic: Text-to-Image generation, dataset construction and training for LLM application in vertical domain (Translation, AIops, AI agent), Software Development. 
 
+<span class='anchor' id='-educations'></span>
+
 # 📖 Educations
 - *2020.09 - 2022.05*, Master of Science, Columbia University, New York. GPA: 4.198/4.3. Topic: Robotics and Control.
 - *2016.09 - 2020.06*, Bachelor of Engineering, Naning Univerisity of Science and Technology, Nanjing. 
+
+
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
 
@@ -200,7 +205,7 @@ Scholarship for People of the Year on Campus in academic year 2018-2019 (Only 10
   
 Outstanding Graduate Representative (2020.06).
 
-
+<span class='anchor' id='-course-project-gallery'></span>
 
 # 💻 Course Project Gallery
 <!--
@@ -335,7 +340,7 @@ Outstanding Graduate Representative (2020.06).
 </div>
 </div>
 
-
+<span class='anchor' id='-Service'></span>
 
 
 # 🪐 Service
