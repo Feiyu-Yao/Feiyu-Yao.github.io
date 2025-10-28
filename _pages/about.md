@@ -35,7 +35,7 @@ redirect_from:
 
 # 📖 Educations
 - *2020.09 - 2022.05*, Master of Science, Columbia University, New York. GPA: 4.198/4.3. Topic: Robotics and Control.
-- *2016.09 - 2020.06*, Bachelor of Engineering, Naning Univerisity of Science and Technology, Nanjing. 
+- *2016.09 - 2020.06*, Bachelor of Engineering, Nanjing Univerisity of Science and Technology, Nanjing. 
 
 
 <span class='anchor' id='-publications'></span>
