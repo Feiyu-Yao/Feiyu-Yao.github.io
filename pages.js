@@ -163,7 +163,7 @@
           <p class="lede" style="margin-top:16px;">A running list of peer-reviewed papers and preprints. Starred work is first-author.</p>
           <div class="scholar">
             <div><span class="num">${S.publications.length}</span><span class="label">Papers</span></div>
-            <div><span class="num">${S.publications.filter(p => p.authors.includes('<strong>Feiyu Yao</strong>, ') || p.authors.startsWith('<strong>Feiyu Yao</strong>') || p.authors.includes('corresponding')).length}</span><span class="label">First-author / corresp.</span></div>
+            <div><span class="num">3</span><span class="label">First-author / corresp.</span></div>
             <div><span class="num"><a href="${S.scholar}" target="_blank" rel="noopener" style="color:inherit;">→</a></span><span class="label">Scholar profile</span></div>
           </div>
         </header>
